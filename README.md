@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohitkhapre
+- 👋 Hi, I’m Rohitkhapre
 - 👀 I’m interested in DevOps Engineer 
 - 🌱 I’m currently learning DevOps,Gitlab,Java,JavaScript
 - 📫 How to reach me rkhapre111@gmail.com
