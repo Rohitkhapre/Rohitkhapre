@@ -33,7 +33,7 @@
 ### 📫 **Connect with Me**
 
 - **LinkedIn**: [rohit-khapre](https://www.linkedin.com/in/rohit-khapre/)  
-- **GitHub**: [your-github](https://github.com/Rohitkhapre)
+- **GitHub**: [RohitKhapre](https://github.com/Rohitkhapre)
 
 
 
