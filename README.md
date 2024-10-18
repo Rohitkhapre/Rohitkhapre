@@ -1,3 +1,43 @@
+## 👨‍💻 Rohit Khapre | DevOps Engineer
+
+🚀 **DevOps | Cloud | CI/CD**  
+📍 **Atrina Technologies Pvt Ltd**  
+🎓 **B.Tech in Computer Science**
+
+---
+
+### 🛠️ **Skills & Technologies**
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-yellow?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?logo=ansible)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboarding-orange?logo=grafana)
+![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-blue?logo=sonarqube)
+
+---
+
+### 💻 **What I Do**
+
+- **Cloud Infrastructure**: AWS, Azure  
+- **Containerization & Orchestration**: Docker, Kubernetes, Helm  
+- **CI/CD Pipelines**: Jenkins, GitLab CI, GitHub Actions  
+- **Infrastructure as Code (IaC)**: Terraform, Ansible  
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
+
+---
+
+### 📫 **Connect with Me**
+
+- **LinkedIn**: [rohit-khapre](https://linkedin.com/in/yourprofile)  
+- **GitHub**: [your-github](https://github.com/yourusername)
+
+
+
+
 # 🚀 DevOps Projects
 
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-blue)
