@@ -32,8 +32,8 @@
 
 ### 📫 **Connect with Me**
 
-- **LinkedIn**: [rohit-khapre](https://linkedin.com/in/yourprofile)  
-- **GitHub**: [your-github](https://github.com/yourusername)
+- **LinkedIn**: [rohit-khapre](https://www.linkedin.com/in/rohit-khapre/)  
+- **GitHub**: [your-github](https://github.com/Rohitkhapre)
 
 
 
