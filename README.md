@@ -96,7 +96,7 @@ Here’s a summary of the tools and technologies I frequently work with:
 
 ### Infrastructure as Code (IaC)
 
-🌐 **[AWS Infrastructure Setup with Terraform](link_to_repo_folder)**
+🌐 **[AWS Infrastructure Setup with Terraform](https://github.com/Rohitkhapre/AWS-Infrastructure-Setup-with-Terraform.git)**
   - Provisioned AWS infrastructure (EC2, S3, VPC, and RDS) using Terraform.
 
 🔧 **[Ansible Playbooks for Automation](link_to_repo_folder)**
