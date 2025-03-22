@@ -1,4 +1,4 @@
-## 👨‍💻 Rohit Khapre | DevOps Engineer
+## 👨‍💻 Rohit Khapre | DevOps / Cloud Engineer
 
 🚀 **DevOps | Cloud | CI/CD**  
 📍 **Atrina Technologies Pvt Ltd**  
