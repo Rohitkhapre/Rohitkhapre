@@ -109,7 +109,7 @@ Here’s a summary of the tools and technologies I frequently work with:
 🐳 **[Kubernetes Microservices Deployment](https://github.com/Rohitkhapre/ha-k8s-cluster)**
   - Deployed microservices architecture on Kubernetes with Helm for dependency management.
 
-📦 **[Dockerized Full-Stack Application](link_to_repo_folder)**
+📦 **[Dockerized Full-Stack Application](https://github.com/Rohitkhapre/dockerized-fullstack-starters)**
   - Built and deployed a full-stack application with Docker Compose and optimized images.
 
 ---
