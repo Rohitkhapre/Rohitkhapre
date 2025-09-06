@@ -116,7 +116,7 @@ Here’s a summary of the tools and technologies I frequently work with:
 
 ### Monitoring and Logging
 
-📊 **[Prometheus & Grafana Setup for Docker Monitoring](link_to_repo_folder)**
+📊 **[Prometheus & Grafana Setup for Docker Monitoring](https://github.com/Rohitkhapre/prometheus-grafana-monitoring/tree/master)**
   - Configured Prometheus and Grafana for real-time monitoring of Docker containers and application metrics.
 
 📜 **[ELK Stack for Centralized Logging](link_to_repo_folder)**
