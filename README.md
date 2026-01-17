@@ -24,9 +24,10 @@
 
 - **Cloud Infrastructure**: AWS, Azure  
 - **Containerization & Orchestration**: Docker, Kubernetes, Helm  
-- **CI/CD Pipelines**: Jenkins, GitLab CI, GitHub Actions  
+- **CI/CD Pipelines**: Jenkins, GitLab CI, GitHub Actions, Gitlanb
 - **Infrastructure as Code (IaC)**: Terraform, Ansible  
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- **Security**: Wazuh, Elastic, SIEM Tools
 
 ---
 
@@ -45,7 +46,7 @@
 ![Docker](https://img.shields.io/badge/Containerization-Docker%2C%20Kubernetes-9cf)
 ![AWS](https://img.shields.io/badge/Cloud-AWS%2C%20Azure%2C%20GCP-orange)
 
-Welcome to my **DevOps repository**! This repo showcases projects focusing on **infrastructure automation**, **CI/CD pipelines**, **monitoring**, **containerization**, and **cloud management**.
+Welcome to my **DevOps repository**! This repo showcases projects focusing on **infrastructure automation**, **CI/CD pipelines**, **monitoring**, **containerization**, **security** and **cloud management**.
 
 ---
 
