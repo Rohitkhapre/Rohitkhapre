@@ -1,7 +1,7 @@
 ## 👨‍💻 Rohit Khapre | DevOps / Cloud Engineer
 
 🚀 **DevOps | Cloud | CI/CD**  
-📍 **Atrina Technologies Pvt Ltd**  
+📍 ** Zeidler Group **  
 🎓 **B.Tech in Computer Science**
 
 ---
@@ -22,9 +22,9 @@
 
 ### 💻 **What I Do**
 
-- **Cloud Infrastructure**: AWS, Azure  
-- **Containerization & Orchestration**: Docker, Kubernetes, Helm  
-- **CI/CD Pipelines**: Jenkins, GitLab CI, GitHub Actions, Gitlanb
+- **Cloud Infrastructure**: AWS, Azure, GCP
+- **Containerization & Orchestration**: Docker, Kubernetes, Helm, OpenShift
+- **CI/CD Pipelines**: Jenkins, GitLab CI, GitHub Actions, ArgoCD
 - **Infrastructure as Code (IaC)**: Terraform, Ansible  
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
 - **Security**: Wazuh, Elastic, SIEM Tools
