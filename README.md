@@ -1,7 +1,7 @@
 ## 👨‍💻 Rohit Khapre | DevOps / Cloud Engineer
 
 🚀 **DevOps | Cloud | CI/CD**  
-📍 ** Zeidler Group **  
+📍 **Zeidler Group**  
 🎓 **B.Tech in Computer Science**
 
 ---
